@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sohtheichi.tmcsolutions.com.my/sitemap.xml
